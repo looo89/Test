@@ -1,0 +1,24 @@
+.root{
+    margin-left: 10px;
+    margin-top: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    text-align: left;
+}
+.descriptionContainer{
+    display: flex;
+    justify-content:space-between;
+}
+.description{
+    font-size: 18px;
+}
+.body{
+    margin-left: 10px;
+}
+.button{
+    height: 20px;
+    width: 85px;
+}
+.button:hover{
+    background-color: rgb(255, 70, 70);
+}

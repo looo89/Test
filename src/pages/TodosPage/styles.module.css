@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  justify-content: center;
+  margin-left: 80px;
+}
+.todoItem{
+ border: 1px solid grey;
+ border-radius: 3px;
+ width: 250px;
+ margin-top: 15px;
+ margin-right: 10px;
+ cursor: pointer;
+}

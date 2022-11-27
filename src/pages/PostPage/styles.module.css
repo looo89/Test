@@ -1,0 +1,16 @@
+.form{
+    margin-left: 15px;
+}
+.input{
+    height: 30px;
+    width: 785px;
+    margin-top: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+.button{
+    border-radius: 3px;
+}
+.button:hover{
+    background-color:aquamarine
+}

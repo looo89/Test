@@ -1,0 +1,24 @@
+root{
+    width: 100px;
+    background-color: rgb(244, 244, 244);
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+
+}    
+.button{
+    width: 100px;
+    height: 40px;
+    display: block;
+    border: 1px, solid, red;
+    border-radius: 3px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.link{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
